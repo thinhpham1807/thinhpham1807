@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinhpham1807&label=Profile%20views&color=0e75b6&style=flat" alt="thinhpham1807" /> </p>
 
-- 🌱 I’m currently learning **Data Science and ML/AI**
+- 🌱 I’m currently learning **Data Engineer and ML/AI**
 
 - 📫 How to reach me **thinhpham1807@gmail.com**
 
