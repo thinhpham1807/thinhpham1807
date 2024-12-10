@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinhpham1807&label=Profile%20views&color=0e75b6&style=flat" alt="thinhpham1807" /> </p>
 
-- 🌱 I’m currently learning **Data Engineer and ML/AI**
+- 🌱 I’m currently learning **Data Engineer**
 
 - 📫 How to reach me **thinhpham1807@gmail.com**
 
-- ⚡ Fun fact **I’m addicted to data**
+- ⚡ Fun fact **I’m addicted to Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
